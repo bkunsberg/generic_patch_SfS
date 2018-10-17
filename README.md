@@ -8,7 +8,7 @@ Daniel N. Holtmann-Rice, Benjamin S. Kunsberg, Steven W. Zucker
 https://link.springer.com/article/10.1007/s10851-018-0815-z
 
 
-Code written by Benjamin Kunsberg
+Code written by Benjamin Kunsberg and tested under Matlab 2016, 2017, 2018.
 
 To run, first unzip the Tensor Toolbox contained in tensor_toolbox.zip.  (Found here: https://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html)
 
