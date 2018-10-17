@@ -10,9 +10,11 @@ https://link.springer.com/article/10.1007/s10851-018-0815-z
 
 Code written by Benjamin Kunsberg
 
-To run, first unzip the Matlab Tensor toolbox contained in tensor_toolbox.zip
+To run, first unzip the Tensor Toolbox contained in tensor_toolbox.zip.  (Found here: https://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html)
+
+
 Then, run an example via the script: 'run_examples.m'
 
-You can find more examples by commenting out the different lines in 'buildTestImg.m' or loading in your own image via Matlab's imread.
+You can find more examples by commenting out the different lines in 'buildTestImg.m' or loading in your own image via Matlab's imread.  Note that the algorithm will only attempt to model the image in a central patch defined by the Taylor order you choose. 
 
 
